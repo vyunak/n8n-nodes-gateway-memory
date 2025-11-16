@@ -1,0 +1,16 @@
+# Development files
+node_modules/
+.git/
+.gitignore
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Test files
+test/
+*.test.js
+
+# Documentation (keep only README)
+docs/

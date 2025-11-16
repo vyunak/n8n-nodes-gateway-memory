@@ -1,0 +1,16 @@
+{
+  "node": "n8n-nodes-base.memoryGateway",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": ["AI"],
+  "subcategories": {
+    "AI": ["Memory"]
+  },
+  "resources": {
+    "primaryDocumentation": [
+      {
+        "url": "https://github.com/vyunak/n8n-nodes-filtered-memory"
+      }
+    ]
+  }
+}
